@@ -1,17 +1,31 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=iolave&count_private=true&include_all_commits=true&show_icons=true&theme=dark"></img>
+# Hi Buddy 🖐🏻!
 
-Dog lover 🐶
+I'm a **Backend Developer** with a **Computer Science** degree from the **University of Santiago, Chile**, also a technology enthusiast, musician and woodworker whenever i have time.
 
-DLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- 🏢 Currently employed at **BCI - MACH**.
+- 🌱 Homelab learner.
+- 💬 Feel free to talk me about Microservices, Javascript/Typescript, C/C++, Freelancing Opportunities.
+- 🐶 Dog lover.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Where to find me?
+[BADGE_INSTAGRAM]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[BADGE_LINKEDIN]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[BADGE_SOUNDCLOUD]: https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white
+[BADGE_LINKTREE]: https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
+
+[![BADGE_LINKEDIN]](https://linkedin.com/in/olaveia)
+[![BADGE_INSTAGRAM]](https://instagram.com/nachobrb)
+[![BADGE_SOUNDCLOUD]](https://soundcloud.com/mfhrecordscl)
+[![BADGE_LINKTREE]](https://linktr.ee/iolave)
+
 
 # Technology stack 💻
 ## Platforms & Cloud ☁️
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes"/>
 
 ## Languages 📖
-<img src="https://skillicons.dev/icons?i=bash,js,ts,c,cpp,swift,java" />
+<img src="https://skillicons.dev/icons?i=bash,js,ts,c,cpp,python,swift,java" />
 
 ## Version Control ⛭
 <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
@@ -21,7 +35,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Others...
 <img src="https://skillicons.dev/icons?i=latex,nodejs,express,githubactions,sketchup,ps,ai"/>
-
-# Follow me on socials!
-<img href="https://instagram.com/nachobrb" src="https://skillicons.dev/icons?i=instagram"/>
-<img href="https://www.linkedin.com/in/olaveia/" src="https://skillicons.dev/icons?i=linkedin"/>
