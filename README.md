@@ -24,8 +24,8 @@ I'm a **Backend Developer** with a **Computer Science** degree from the **Univer
 
 <table>
 <tr>
-<td><b>Platforms & Cloud ☁️</b><td>
-<td><img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=linux,docker,kubernetes"/><td>
+<td><b>Platforms & Cloud ☁️</b></td>
+<td><img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=linux,docker,kubernetes"/></td>
 </tr>
 </table>
 
