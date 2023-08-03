@@ -21,6 +21,7 @@ I'm a **Backend Developer** with a **Computer Science** degree from the **Univer
 
 
 # Technology stack 💻
+- **Test**: <img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=linux,docker,kubernetes"/>
 #### Platforms & Cloud ☁️
 <img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=linux,docker,kubernetes"/>
 
