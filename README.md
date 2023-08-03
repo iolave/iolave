@@ -21,17 +21,17 @@ I'm a **Backend Developer** with a **Computer Science** degree from the **Univer
 
 
 # Technology stack 💻
-## Platforms & Cloud ☁️
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes"/>
+#### Platforms & Cloud ☁️
+<img style="max-height:30px" src="https://skillicons.dev/icons?i=linux,docker,kubernetes"/>
 
-## Languages 📖
-<img src="https://skillicons.dev/icons?i=bash,js,ts,c,cpp,python,swift,java" />
+#### Languages 📖
+<img style="max-height:30px" src="https://skillicons.dev/icons?i=bash,js,ts,c,cpp,python,swift,java" />
 
-## Version Control ⛭
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+#### Version Control ⛭
+<img style="max-height:30px" src="https://skillicons.dev/icons?i=git,github,gitlab" />
 
-## Databases 💾
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+#### Databases 💾
+<img style="max-height:30px" src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 
-## Others...
-<img src="https://skillicons.dev/icons?i=latex,nodejs,express,githubactions,sketchup,ps,ai"/>
+#### Others...
+<img style="max-height:30px" src="https://skillicons.dev/icons?i=latex,nodejs,express,githubactions,sketchup,ps,ai"/>
