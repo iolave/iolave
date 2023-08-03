@@ -23,24 +23,24 @@ I'm a **Backend Developer** with a **Computer Science** degree from the **Univer
 # Technology stack 💻
 
 <table>
-<tr>
-<td><b>Platforms & Cloud ☁️</b></td>
-<td><img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=linux,docker,kubernetes"/></td>
-</tr>
+    <tr>
+        <td><b>☁️ Platforms & Cloud</b></td>
+        <td><img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=linux,docker,kubernetes"/></td>
+    </tr>
+    <tr>
+        <td><b>📖 Languages</b></td>
+        <td><img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=bash,js,ts,c,cpp,python,swift,java" /></td>
+    </tr>
+    <tr>
+        <td><b>💾 Databases</b></td>
+        <td><img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /></td>
+    </tr>
+    <tr>
+        <td><b>⛭ Version Control</b></td>
+        <td><img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=git,github,gitlab" /></td>
+    </tr>
+    <tr>
+        <td><b>Others...</b></td>
+        <td><img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=latex,nodejs,express,githubactions,sketchup,ps,ai"/></td>
+    </tr>
 </table>
-
-- **Test**: <img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=linux,docker,kubernetes"/>
-#### Platforms & Cloud ☁️
-<img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=linux,docker,kubernetes"/>
-
-#### Languages 📖
-<img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=bash,js,ts,c,cpp,python,swift,java" />
-
-#### Version Control ⛭
-<img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=git,github,gitlab" />
-
-#### Databases 💾
-<img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-
-#### Others...
-<img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=latex,nodejs,express,githubactions,sketchup,ps,ai"/>
