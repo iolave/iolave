@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=iolave&count_private=true&include_all_commits=true&show_icons=true&theme=dark"></img>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iolave&rank_icon=github&theme=dark&show_icons=true"></img>
 # Hi Buddy 🖐🏻!
 
 I'm a **Backend Developer** with a **Computer Science** degree from the **University of Santiago, Chile**, also a technology enthusiast, musician and woodworker whenever i have time.
