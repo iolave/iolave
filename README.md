@@ -1,4 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=iolave&rank_icon=github&theme=dark&show_icons=true"></img>
 # Hi Buddy 🖐🏻!
 
 I'm a **Backend Developer** with a **Computer Science** degree from the **University of Santiago, Chile**, also a technology enthusiast, musician and woodworker whenever i have time.
@@ -8,7 +7,7 @@ I'm a **Backend Developer** with a **Computer Science** degree from the **Univer
 - 💬 Feel free to talk me about Microservices, Javascript/Typescript, C/C++, Freelancing Opportunities.
 - 🐶 Dog lover.
 
-# Where to find me?
+## Where to find me?
 [BADGE_INSTAGRAM]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [BADGE_LINKEDIN]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [BADGE_SOUNDCLOUD]: https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white
@@ -20,7 +19,7 @@ I'm a **Backend Developer** with a **Computer Science** degree from the **Univer
 [![BADGE_LINKTREE]](https://linktr.ee/iolave)
 
 
-# Technology stack 💻
+## Tech stack 💻
 
 <table>
     <tr>
@@ -44,3 +43,6 @@ I'm a **Backend Developer** with a **Computer Science** degree from the **Univer
         <td><img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=latex,nodejs,express,githubactions,sketchup,ps,ai"/></td>
     </tr>
 </table>
+
+## Stats
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iolave&theme=tokyonight"></img>
