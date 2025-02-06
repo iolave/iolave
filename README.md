@@ -28,7 +28,7 @@ I'm a **Backend Developer** with a **Computer Science** degree from the **Univer
     </tr>
     <tr>
         <td><b>📖 Languages</b></td>
-        <td><img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=bash,js,ts,c,cpp,python,swift,java" /></td>
+        <td><img height="30px" style="max-height:30px" src="https://skillicons.dev/icons?i=golang,js,c,python,swift,java,bash" /></td>
     </tr>
     <tr>
         <td><b>💾 Databases</b></td>
